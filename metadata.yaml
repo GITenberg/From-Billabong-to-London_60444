@@ -1,5 +1,5 @@
 _repo: From-Billabong-to-London_60444
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Leist, Fred
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '50919'
     url: http://www.gutenberg.org/2009/agents/50919
     wikipedia: https://en.wikipedia.org/wiki/Fred_Leist
+covers:
+- cover_type: archival
+  image_path: 60444-h/images/cover.jpg
 creator:
   author:
     agent_name: Bruce, Mary Grant
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1371
     wikipedia: https://en.wikipedia.org/wiki/Mary_Grant_Bruce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60444#From-Billabong-to-London
 gutenberg_issued: '2019-10-07'
 gutenberg_type: Text
 identifiers:
