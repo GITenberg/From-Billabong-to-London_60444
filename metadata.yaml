@@ -1,0 +1,39 @@
+_repo: From-Billabong-to-London_60444
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Leist, Fred
+    alias: Leist, Frederick William
+    birthdate: 1873
+    deathdate: 1945
+    gutenberg_agent_id: '50919'
+    url: http://www.gutenberg.org/2009/agents/50919
+    wikipedia: https://en.wikipedia.org/wiki/Fred_Leist
+creator:
+  author:
+    agent_name: Bruce, Mary Grant
+    birthdate: 1878
+    deathdate: 1958
+    gutenberg_agent_id: '1371'
+    url: http://www.gutenberg.org/2009/agents/1371
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Grant_Bruce
+description: ''
+gutenberg_issued: '2019-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60444'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- Australia -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcsh 'Australia -- Juvenile fiction'
+- !lcsh 'Adventure stories, Australian'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Ocean travel -- Juvenile fiction'
+- GITenberg
+title: From Billabong to London
+url: http://www.gutenberg.org/ebooks/60444
